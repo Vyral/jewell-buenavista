@@ -1336,7 +1336,6 @@ html[xmlns] .flexslider .slides {
   max-width: 65%; }
 
 .navbar-nav > li {
-  margin-right: 10px;
   margin-bottom: 0px;
   transition: all 0.15s ease-out 0s; }
 
@@ -1357,6 +1356,9 @@ html[xmlns] .flexslider .slides {
   .navbar-left > li > a:focus {
     text-decoration: none;
     color: #562249; }
+
+.nav > li > a {
+  padding: 10px 12px; }
 
 .cta {
   background: transparent;
