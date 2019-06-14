@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Points to Consider About Long-Term Care
-date: 2019-04-15 00:00:00
+date: 2019-04-14 00:00:00
 tags:
   - Senior Living Options
   - Seniors of our Community
