@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Assisted Living Communities Differ From Independent Living Communities?
-date: 2019-04-20 00:00:00
+date: 2019-04-17 00:00:00
 tags:
   - Senior Living Options
   - Seniors of our Community
