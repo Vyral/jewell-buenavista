@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is a CCRC and Why Is It the Top Living Option Among Seniors?
-date: 2019-04-21 00:00:00
+date: 2019-04-15 00:00:00
 tags:
   - Senior Living Options
   - Seniors of our Community
