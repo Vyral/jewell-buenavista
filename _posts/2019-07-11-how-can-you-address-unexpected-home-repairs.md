@@ -1,9 +1,8 @@
 ---
 layout: post
 title: How Can You Address Unexpected Home Repairs?
-date: 2019-07-11 15:01:00
+date: 2019-07-11 03:01:00
 tags:
-  - Home Repairs
   - Seniors of our Community
 excerpt: >-
   Home repairs come up sometimes with little to no warning, so today I’ll give
