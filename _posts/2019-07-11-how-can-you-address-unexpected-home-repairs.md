@@ -38,7 +38,7 @@ If the repair isn’t covered through insurance, your second option is to **look
 
 For the sake of argument, say you don’t have a home warranty. In that case, who should you call for help with repairs? A good rule of thumb is to first **ask your fellow neighbors or your friends to point you in the right direction and recommend a professional or service that they’ve used in the past. &nbsp;**
 
-If none of these options work for your situation, **make sure that whoever you do hire for the job has received high praise from past customers in their ratings and reviews.** A quick online search or the review site Yelp will tell you a lot.&nbsp;
+If none of these options work for your situation, **make sure that whoever you do hire for the job has received high praise from past customers in their ratings and reviews.** A quick online search or the review site Yelp\! will tell you a lot.&nbsp;
 
 It’s just as important to **make sure that the contractor you work with is fully licensed, bonded, and insured.** The last thing you want is to be legally liable for an injury or accident on your property that you had no control over.&nbsp;
 
