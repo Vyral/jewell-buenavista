@@ -1,10 +1,8 @@
 ---
 layout: post
 title: How Can You Address Unexpected Home Repairs?
-date: 2019-07-16 16:22:15
+date: 2019-07-16 04:22:00
 tags:
-  - Real Estate
-  - Home Repairs
 excerpt: >-
   Home repairs come up sometimes with little to no warning, so today I’ll give
   you some insight into how you should address unexpected repairs in your own
