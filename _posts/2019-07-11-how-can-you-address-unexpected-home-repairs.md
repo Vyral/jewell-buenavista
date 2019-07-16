@@ -9,7 +9,7 @@ excerpt: >-
   you some insight into how you should address unexpected repairs in your own
   home.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jewell+Buenavista/Let's+Talk+Seniors+Show+_+How+Can+You+Address+Unexpected+Home+Repairs_+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Jewell+Buenavista/Let's+Talk+Seniors+Show+_+How+Can+You+Address+Unexpected+Home+Repairs_+(2).mp4
 pullquote: >-
   Before starting the job, your contractor should give you a quote that
   describes in full detail the services they’re rendering and the itemized costs
