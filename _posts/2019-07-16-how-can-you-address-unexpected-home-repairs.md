@@ -15,7 +15,7 @@ pullquote: >-
   to you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/jewell-buenavista---july-2019---1---youtube-1.jpg
 youtube_code: Ca1prQMuc4s
 ---
