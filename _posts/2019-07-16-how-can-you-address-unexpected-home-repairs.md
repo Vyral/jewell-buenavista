@@ -3,14 +3,12 @@ layout: post
 title: How Can You Address Unexpected Home Repairs?
 date: 2019-07-16 04:22:00
 tags:
-  - Real Estate
-  - Home Repairs
 excerpt: >-
   Home repairs come up sometimes with little to no warning, so today I’ll give
   you some insight into how you should address unexpected repairs in your own
   home.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jewell+Buenavista/Let's+Talk+Seniors+Show+_+How+Can+You+Address+Unexpected+Home+Repairs_+(3).mp4
+  https://vyralmarketing.s3.amazonaws.com/Jewell+Buenavista/Let's+Talk+Seniors+Show+_+How+Can+You+Address+Unexpected+Home+Repairs_+(4).mp4
 pullquote: >-
   Before starting the job, your contractor should give you a quote that
   describes in full detail the services they’re rendering and the itemized costs
@@ -19,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jewell-buenavista---july-2019---1---youtube-1.jpg
-youtube_code: Ca1prQMuc4s
+youtube_code: kEvHA3kWmvw
 ---
 
 {% include youtube.html %}
